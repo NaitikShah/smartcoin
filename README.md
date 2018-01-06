@@ -1,2 +1,1 @@
-# smartcoin
-# smartcoin
+# smartcoin just being launched ...
